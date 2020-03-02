@@ -22,4 +22,6 @@ for the level.
 
 
 
-
+### Results
+This game was create with Windows Presentation Foundation and C#.
+I don't recommend using it for games that require moving elements for animation. It would be perfect for incremental games such as Universal Paperclips or Cookie Clicker
