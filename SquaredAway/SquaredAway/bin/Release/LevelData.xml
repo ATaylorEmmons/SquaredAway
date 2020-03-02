@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LevelData Count="4" LastLevelPlayed="0">
+ 
+  <Levels>
+    <Level Name="The First Level" Size="4" Shifts="0">
+      5 2 1 5
+      2 0 0 2
+      1 0 0 1
+      5 2 1 5
+    </Level>
+    <Level Name="The Second Level" Size="4" Shifts="0">
+      5 1 2 5
+      1 0 0 1
+      2 0 0 2
+      5 1 2 5
+    </Level>
+
+    <Level Name="The Third Level" Size="4" Shifts="0">
+      5 1 1 5
+      2 0 0 1
+      1 0 0 2
+      5 2 2 5
+    </Level>
+	   <Level Name="The Fourth Level" Size="6" Shifts="0">
+      5 5 5 5 5 5
+      5 1 0 1 2 5
+      5 0 0 5 1 5
+      5 3 2 0 2 5
+	  5 2 1 5 1 5
+      5 5 5 5 5 5
+    </Level>
+  </Levels>
+</LevelData>

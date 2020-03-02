@@ -1,0 +1,15 @@
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\bin\Debug\SquaredAway.exe.config
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\bin\Debug\SquaredAway.exe
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\bin\Debug\SquaredAway.pdb
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\SquaredAway.csprojAssemblyReference.cache
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\MainWindow.g.cs
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\App.g.cs
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\SquaredAway_MarkupCompile.cache
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\SquaredAway_MarkupCompile.lref
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\MainWindow.baml
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\SquaredAway.g.resources
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\SquaredAway.Properties.Resources.resources
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\SquaredAway.csproj.GenerateResource.cache
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\SquaredAway.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\SquaredAway.exe
+C:\Users\Taylor\source\repos\SquaredAway\SquaredAway\obj\Debug\SquaredAway.pdb
