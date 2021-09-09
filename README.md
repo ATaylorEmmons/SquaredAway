@@ -1,7 +1,7 @@
 # SquaredAway
 
 ### How to play
-Use the arrow keys to move the squares around. Grey squares don't move. Make a bigger square out of the blue smaller ones too win.
+Use the arrow keys to move the squares around. Grey squares don't move. Make a bigger square out of the blue smaller ones to win.
 
 ### How to make levels
 Open the LevelData.xml file that is in the same directory as the .exe.
